@@ -1,4 +1,4 @@
-![Bang Oman](img/github-header-image.png)
+## ![Bang Oman](img/new-header.png)
 
 
 
