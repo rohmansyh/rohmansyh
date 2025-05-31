@@ -48,7 +48,6 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### Play games with me
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/rohmansyh/rohmansyh/output/snake.svg" alt="Snake animation" />
@@ -65,6 +64,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="" height="400" src="https://i.pinimg.com/originals/26/e7/6a/26e76a2a01f647fd16795a973b332606.gif">
+<img align="" height="300" src="https://i.pinimg.com/originals/26/e7/6a/26e76a2a01f647fd16795a973b332606.gif">
 
 ###
