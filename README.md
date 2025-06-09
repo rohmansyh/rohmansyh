@@ -1,7 +1,5 @@
 ## ![Bang Oman](img/new-header.png)
 
-
-
 <!--
 **rohmansyh/rohmansyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,6 +32,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdrhmn.ssj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdur-rohman-syah-sjadja-ah-5a037b289/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/abdurrohmansyahs4235)
 
 ### 📊 GitHub Stats:
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rohmansyh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="200" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=rohmansyh&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=6" height="190" alt="streak graph" /> <br>
@@ -42,14 +41,14 @@ Here are some ideas to get you started:
 </div>
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=rohmansyh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### Play Games
 
-### Pacman Eating Contribution
+<img src="https://raw.githubusercontent.com/rohmansyh/rohmansyh/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohmansyh/rohmansyh/output/pacman-contribution-graph-dark.svg">
@@ -61,6 +60,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="" height="300" src="https://i.pinimg.com/originals/26/e7/6a/26e76a2a01f647fd16795a973b332606.gif">
+<!-- <img align="" height="300" src="https://i.pinimg.com/originals/26/e7/6a/26e76a2a01f647fd16795a973b332606.gif"> -->
 
 ###
