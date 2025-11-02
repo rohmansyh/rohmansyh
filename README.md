@@ -1,4 +1,4 @@
-## ![Bang Oman](img/new-header.png)
+## ![Bang Oman](img/github-banner.png)
 
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 **I’m currently studying on University Brawijaya**
-- 🌱 **I’m currently learning Laravel Framework**
+- 🌱 **I’m currently learning Next.js Framework**
 - 😁😁😁
 
 ### Tech Stack
